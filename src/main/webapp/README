@@ -1,4 +1,4 @@
-1. First off, what is logging?
+1. First off all , what is logging?
 The process of logging involves keeping track of messages, events, and other information that arises when software programs are running.
 These documents, sometimes referred to as logs, offer a trail of execution that can be utilized to analyze system behavior, 
 identify problems, and carry out audits. Logs can be kept using files, 
