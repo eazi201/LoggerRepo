@@ -1,0 +1,20 @@
+1. First off, what is logging?
+The process of logging involves keeping track of messages, events, and other information that arises when software programs are running.
+These documents, sometimes referred to as logs, offer a trail of execution that can be utilized to analyze system behavior, 
+identify problems, and carry out audits. Logs can be kept using files, 
+databases, or other logging systems and usually include timestamps, event details, and contextual information.
+
+2. Why LOgger is important
+Debugging: Helps identify and fix issues.
+Monitoring: Tracks system health and performance.
+Security: Detects unauthorized access.
+Compliance: Ensures regulatory adherence.
+Auditing: Provides a historical record of actions.
+
+3. Understanding Logging Levels
+Logging levels are used to categorize the severity and importance of log messages. Common logging levels include:
+DEBUG: Detailed, diagnostic info  development.
+INFO: General operational messages.
+WARNING: Potential issues, non-critical.
+ERROR: Significant problems, app continues.
+CRITICAL: Severe errors, app may stop.
